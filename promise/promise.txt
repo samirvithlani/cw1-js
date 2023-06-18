@@ -1,0 +1,6 @@
+//pending
+//fullfilled
+//rejected
+
+var x = api call... response --> 2 3 sec
+//.... x undefined
